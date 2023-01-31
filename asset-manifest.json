@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/srk45830/static/css/main.26c985a0.css",
+    "main.css": "/srk45830/static/css/main.769cc42b.css",
     "main.js": "/srk45830/static/js/main.8e252c9b.js",
     "static/js/787.bd4d003d.chunk.js": "/srk45830/static/js/787.bd4d003d.chunk.js",
+    "static/media/2102.i518.009_sky_cloud_evening_illustration.jpg": "/srk45830/static/media/2102.i518.009_sky_cloud_evening_illustration.e66dd7bac06ba6453029.jpg",
     "index.html": "/srk45830/index.html",
-    "main.26c985a0.css.map": "/srk45830/static/css/main.26c985a0.css.map",
+    "main.769cc42b.css.map": "/srk45830/static/css/main.769cc42b.css.map",
     "main.8e252c9b.js.map": "/srk45830/static/js/main.8e252c9b.js.map",
     "787.bd4d003d.chunk.js.map": "/srk45830/static/js/787.bd4d003d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.26c985a0.css",
+    "static/css/main.769cc42b.css",
     "static/js/main.8e252c9b.js"
   ]
 }
